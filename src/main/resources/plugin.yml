@@ -1,0 +1,4 @@
+name: Teams
+main: pw.solex.teams.TeamsPlugin
+version: 1.0-SNAPSHOT
+author: Solex Services
